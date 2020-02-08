@@ -9,3 +9,5 @@ this is the new feature line
 >>>>>>> feature/new-feature
 
 this is the line for a-new-feature
+
+bago
